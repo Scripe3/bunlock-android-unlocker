@@ -5,24 +5,12 @@ Thank you for taking the time to responsibly report any vulnerabilities or secur
 
 ---
 
-## 🧭 Supported Versions
-
-We maintain and support the latest stable release of **bunlock**.  
-Older versions may not receive security updates.
-
-| Version | Supported |
-|----------|------------|
-| v1.x     | ✅ |
-| < v1.0   | ❌ |
-
----
-
 ## 🧠 Reporting a Vulnerability
 
 If you discover a security issue, **do not** open a public issue.  
 Instead, please contact us directly using one of the following methods:
 
-- Email: `security@bunlock.dev` (example address – replace with yours)  
+- Email: `security.bunlock@gmail.com`
 - Or, use GitHub’s [Security Advisories](https://docs.github.com/en/code-security/security-advisories) to report privately.
 
 When reporting, please include:
