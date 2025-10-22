@@ -31,7 +31,7 @@ Below you’ll find the contribution process, code guidelines, and important sec
 - Keep the code clean, readable, and secure.  
 - Avoid unnecessary external dependencies.  
 - Never include secret keys, user data, or device identifiers in commits.  
-- Preserve the existing `src/` directory structure.  
+- Preserve the existing structure.  
 - Commit messages can be in English or Turkish — clarity is what matters most.
 
 ---
