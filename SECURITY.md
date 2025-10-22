@@ -10,7 +10,7 @@ Thank you for taking the time to responsibly report any vulnerabilities or secur
 If you discover a security issue, **do not** open a public issue.  
 Instead, please contact us directly using one of the following methods:
 
-- Email: `security.bunlock@gmail.com`
+- Email: `secure.bunlock@gmail.com`
 - Or, use GitHub’s [Security Advisories](https://docs.github.com/en/code-security/security-advisories) to report privately.
 
 When reporting, please include:
